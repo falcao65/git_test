@@ -62,7 +62,7 @@ p {
 }
 
 .hero {
-    color: rgb(44, 176, 180);
+    color: rgb(131, 151, 151);
     height: 100vh;
     position: relative;
     background: url('../logo/case-1.jpg') no-repeat center center/cover;
@@ -100,8 +100,8 @@ p {
     text-align: start;
     max-width: 35%;
     height: 500px;
-    background: #fff;
-    color: #333;
+    background: none;
+    color: rgb(131, 151, 151);
     padding: 0 30px;
 }
 
